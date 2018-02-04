@@ -28,8 +28,8 @@ The system will respond with
 ```
 
 If multiple users connect to the system, for example:
-`/connect ws://127.0.0.1:9001/ws/bob`
-`/connect ws://127.0.0.1:9001/ws/bill`
+* `/connect ws://127.0.0.1:9001/ws/bob`
+* `/connect ws://127.0.0.1:9001/ws/bill`
 
 `bob` will receive results for himself as well as `bill` and the same goes for `bill`. Let's see an example
 
